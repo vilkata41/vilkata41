@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vilkata41
-- 👀 I’m interested in Machine Learning, Engineering, Book writing.
-- 🌱 I’m currently learning CS in University of Strathclyde (C, Java, Python, C++, Haskell, Assembly, Algorithms, etc.)
+- 👋 Hi, I’m Vilian Popov but you can call me @vilkata41
+- 👀 I’m interested in Full-stack development, Machine Learning, Engineering, Book writing.
+- 🌱 I’m a Computer Science graduate from University of Strathclyde (Java, JavaScript, React, C, Python, Haskell, Algorithms, etc.)
 - 💞️ I’m looking to collaborate on AI/ML/DL projects.
 - 📫 How to reach me - via email: vilkata41@gmail.com
 
